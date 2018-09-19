@@ -98,6 +98,7 @@ public class BrowserManager extends RepositoryManager implements IBrowserManager
         System.out.println("Missing LOGGING_IMPL in " + System.getProperty("USER_CONFIG"));
         System.exit( -1);
       }
+      System.out.println("Ruchi printing :");
       LoggingServices logging = (LoggingServices)obj;
       Integer nLogLevel = configMgr.getInteger("LOGGING_LEVEL");
       logging.setFilterLevel(nLogLevel.intValue());
