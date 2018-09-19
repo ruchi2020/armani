@@ -1,0 +1,18 @@
+D/web////
+/CMSItem.java/1.10.2.2.4.1/Thu Apr 05 05:20:01 2012//TGLOBAL_REL_2000
+/CMSItemClientServices.java/1.16.2.3.4.6/Wed Oct 07 21:37:19 2015//TGLOBAL_REL_2000
+/CMSItemDetail.java/1.4/Thu Oct 20 21:10:18 2005/-ko/TGLOBAL_REL_2000
+/CMSItemDetailsServices.java/1.20.2.3.4.5/Wed Oct 07 21:37:54 2015/-ko/TGLOBAL_REL_2000
+/CMSItemFileServices.java/1.7.2.2.4.5/Wed Oct 07 21:38:36 2015//TGLOBAL_REL_2000
+/CMSItemHelper.java/1.9.2.2.4.23/Thu May 05 17:43:36 2016//TGLOBAL_REL_2000
+/CMSItemJDBCServices.java/1.19.2.2.4.7/Wed Oct 07 21:39:38 2015//TGLOBAL_REL_2000
+/CMSItemMgr.java/1.1.2.3/Mon Oct 22 19:48:40 2012/-ko/TGLOBAL_REL_2000
+/CMSItemRMIClient.java/1.7.2.2.4.5/Wed Oct 07 21:40:13 2015//TGLOBAL_REL_2000
+/CMSItemRMIServerImpl.java/1.7.2.2.4.5/Wed Oct 07 21:40:33 2015//TGLOBAL_REL_2000
+/CMSItemServices.java/1.8.2.1.6.5/Wed Oct 07 21:41:43 2015//TGLOBAL_REL_2000
+/ICMSItemRMIServer.java/1.7.2.2.4.5/Wed Oct 07 21:42:16 2015//TGLOBAL_REL_2000
+/ItemDetailsBootStrap.java/1.21.2.2.4.3/Fri Jun 30 22:12:45 2017/-ko/TGLOBAL_REL_2000
+/ItemEntryParser.java/1.5.2.1.6.1/Thu Aug 23 18:12:26 2012/-ko/TGLOBAL_REL_2000
+/ItemSearchString.java/1.10.2.11.4.1/Thu Aug 23 18:11:57 2012/-ko/TGLOBAL_REL_2000
+/ItemServices.java/1.1.2.2/Mon Oct 29 18:18:12 2012/-ko/TGLOBAL_REL_2000
+/ItemStock.java/1.6.2.1/Fri Feb 02 01:14:24 2007/-ko/TGLOBAL_REL_2000

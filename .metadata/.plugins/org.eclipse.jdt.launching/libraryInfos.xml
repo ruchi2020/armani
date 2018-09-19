@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<libraryInfos>
+<libraryInfo home="C:\eclipse\jre" version="1.5.0_06">
+<bootpath>
+<entry path="C:\eclipse\jre\lib\rt.jar"/>
+<entry path="C:\eclipse\jre\lib\i18n.jar"/>
+<entry path="C:\eclipse\jre\lib\sunrsasign.jar"/>
+<entry path="C:\eclipse\jre\lib\jsse.jar"/>
+<entry path="C:\eclipse\jre\lib\jce.jar"/>
+<entry path="C:\eclipse\jre\lib\charsets.jar"/>
+<entry path="C:\eclipse\jre\classes"/>
+</bootpath>
+<extensionDirs>
+<entry path="C:\eclipse\jre\lib\ext"/>
+</extensionDirs>
+<endorsedDirs>
+<entry path="C:\eclipse\jre\lib\endorsed"/>
+</endorsedDirs>
+</libraryInfo>
+<libraryInfo home="C:\Java\jdk1.7.0_65\jre" version="1.7.0_65">
+<bootpath>
+<entry path="C:\Java\jdk1.7.0_65\jre\lib\resources.jar"/>
+<entry path="C:\Java\jdk1.7.0_65\jre\lib\rt.jar"/>
+<entry path="C:\Java\jdk1.7.0_65\jre\lib\sunrsasign.jar"/>
+<entry path="C:\Java\jdk1.7.0_65\jre\lib\jsse.jar"/>
+<entry path="C:\Java\jdk1.7.0_65\jre\lib\jce.jar"/>
+<entry path="C:\Java\jdk1.7.0_65\jre\lib\charsets.jar"/>
+<entry path="C:\Java\jdk1.7.0_65\jre\lib\jfr.jar"/>
+<entry path="C:\Java\jdk1.7.0_65\jre\classes"/>
+</bootpath>
+<extensionDirs>
+<entry path="C:\Java\jdk1.7.0_65\jre\lib\ext"/>
+<entry path="C:\WINDOWS\Sun\Java\lib\ext"/>
+</extensionDirs>
+<endorsedDirs>
+<entry path="C:\Java\jdk1.7.0_65\jre\lib\endorsed"/>
+</endorsedDirs>
+</libraryInfo>
+<libraryInfo home="C:\eclipse" version="1.5.0_06">
+<bootpath>
+<entry path="C:\eclipse\jre\lib\rt.jar"/>
+<entry path="C:\eclipse\jre\lib\i18n.jar"/>
+<entry path="C:\eclipse\jre\lib\sunrsasign.jar"/>
+<entry path="C:\eclipse\jre\lib\jsse.jar"/>
+<entry path="C:\eclipse\jre\lib\jce.jar"/>
+<entry path="C:\eclipse\jre\lib\charsets.jar"/>
+<entry path="C:\eclipse\jre\classes"/>
+</bootpath>
+<extensionDirs>
+<entry path="C:\eclipse\jre\lib\ext"/>
+</extensionDirs>
+<endorsedDirs>
+<entry path="C:\eclipse\jre\lib\endorsed"/>
+</endorsedDirs>
+</libraryInfo>
+</libraryInfos>
